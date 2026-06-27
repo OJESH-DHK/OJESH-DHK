@@ -1,47 +1,63 @@
-# Hey, I'm Ojesh 👋
+<div align="center">
 
-Backend developer based in **Kathmandu, Nepal** — crafting APIs, async systems, and real-time backends with Python & Django.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Ojesh+%F0%9F%91%8B;Backend+Developer+%7C+Python+%26+Django;Building+APIs%2C+async+systems%2C+real-time+backends;Based+in+Kathmandu%2C+Nepal+%F0%9F%87%B3%F0%9F%87%B5)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
 ## 🛠 Stack
 
 **Programming & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-red?style=flat-square&logo=django&logoColor=white)
-![Django Channels](https://img.shields.io/badge/Django_Channels-092E20?style=flat-square&logo=django&logoColor=white)
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/DRF-red?style=flat-square&logo=django&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Django_Channels-092E20?style=flat-square&logo=django&logoColor=white" height="28"/>
+</p>
 
 **DevOps & Deployment**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" height="28"/>
+</p>
 
 **Databases & Caching**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/>
+</p>
 
 **Tools & Workflow**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Agile](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Agile%2FScrum-0052CC?style=flat-square&logo=jira&logoColor=white" height="28"/>
+</p>
 
 **Additional Technologies**
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![Celery Beat](https://img.shields.io/badge/Celery_Beat-37814A?style=flat-square&logo=celery&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
-![ASGI](https://img.shields.io/badge/ASGI%2FDaphne-0a0a0a?style=flat-square&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo_Push_Notifications-000020?style=flat-square&logo=expo&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+
+<p>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Celery_Beat-37814A?style=flat-square&logo=celery&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/ASGI%2FDaphne-0a0a0a?style=flat-square&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Expo_Push_Notifications-000020?style=flat-square&logo=expo&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" height="28"/>
+</p>
 
 ---
 
@@ -56,6 +72,16 @@ Backend developer based in **Kathmandu, Nepal** — crafting APIs, async systems
 
 ---
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/OJESH-DHK/OJESH-DHK/blob/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/OJESH-DHK/OJESH-DHK/blob/output/github-snake.svg"/>
+  <img alt="contribution snake" src="https://github.com/OJESH-DHK/OJESH-DHK/blob/output/github-snake.svg"/>
+</picture>
+
+---
+
 ## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojesbi-rajan-dhakal-38658924b/)
@@ -64,5 +90,5 @@ Backend developer based in **Kathmandu, Nepal** — crafting APIs, async systems
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OJESH-DHK&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=OJESH-DHK&style=flat-square&color=58A6FF" alt="Profile views"/>
 </p>
